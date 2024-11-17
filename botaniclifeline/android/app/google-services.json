@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1087099940858",
+    "project_id": "botanic-lifeline",
+    "storage_bucket": "botanic-lifeline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087099940858:android:86d6d04892738657d5fe43",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087099940858-lq2e1nnsheh0a9au5kk1uk74it80cmf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjXAlMSe9BnZJ8pglMxorgYBFjUTidu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087099940858-lq2e1nnsheh0a9au5kk1uk74it80cmf5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087099940858-e7qku14nojt9udq831u33i0u4t10b4vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterOnboarding"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -114,7 +114,7 @@ class _HomePageState extends State<HomePage> {
                 borderRadius: BorderRadius.circular(10),
               ),
               width: 490,
-              height: 120,
+              // height: 120,
               child: Row(
                 children: [
                   Column(
@@ -150,6 +150,7 @@ class _HomePageState extends State<HomePage> {
                               borderRadius: BorderRadius.circular(20),
                             ),
                             backgroundColor: Constants.primaryColor,
+                            foregroundColor: Colors.white,
                           ),
                         ),
                       ),
@@ -305,6 +306,7 @@ class _HomePageState extends State<HomePage> {
                     borderRadius: BorderRadius.circular(30),
                   ),
                   backgroundColor: Constants.primaryColor,
+                  foregroundColor: Colors.white,
                 ),
               ),
             ),
